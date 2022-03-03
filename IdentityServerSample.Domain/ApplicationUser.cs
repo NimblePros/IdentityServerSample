@@ -1,9 +1,8 @@
 ﻿using Microsoft.AspNetCore.Identity;
 using System;
 
-namespace IdentityServerSample.Domain
+namespace IdentityServerSample.Domain;
+
+public class ApplicationUser : IdentityUser
 {
-    public class ApplicationUser : IdentityUser
-    {
-    }
 }

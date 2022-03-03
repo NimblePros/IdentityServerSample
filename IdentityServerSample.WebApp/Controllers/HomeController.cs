@@ -11,7 +11,6 @@ using System.Globalization;
 using Microsoft.AspNetCore.Authentication.Cookies;
 using System.Net.Http;
 using Microsoft.AspNetCore.Authorization;
-using IdentityModel.Client;
 using Newtonsoft.Json.Linq;
 
 namespace IdentityServerSample.WebApp.Controllers
